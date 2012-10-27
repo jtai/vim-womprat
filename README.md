@@ -25,3 +25,9 @@ Works on xterms with [256 colors](http://vim.wikia.com/wiki/256_colors_in_vim).
 
         $ cd ~/.vim/bundle
         $ git clone https://github.com/jtai/vim-womprat.git
+
+### Modify .vimrc
+
+After you've installed womprat, add this line to your `.vimrc`:
+
+    colorscheme womprat
