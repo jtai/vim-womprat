@@ -4,6 +4,12 @@ Colorscheme based on David Liang's [wombat256mod](http://www.vim.org/scripts/scr
 
 Works on xterms with [256 colors](http://vim.wikia.com/wiki/256_colors_in_vim).
 
+## Screenshots
+
+See http://jontai.me/blog/2012/10/womprat-colorscheme-for-vim/ for more screenshots.
+
+![Womprat editing Scala](http://jontai.me/blog/wp-content/uploads/2012/10/womprat-scala.png)
+
 ## Installation
 
 ### Option 1: Manual installation
